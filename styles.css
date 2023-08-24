@@ -1,11 +1,12 @@
 
 /* Your CSS Code here. */
 
-.main
+.accio
 {
     height: 150px;
     width: 150px;
-    background-color: #00000000;
+    /* border: 2px sogitlid red; */
+    background-color: #000000;
 }
 
 p
